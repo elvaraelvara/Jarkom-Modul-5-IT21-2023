@@ -15,9 +15,11 @@
 ![Tree](https://i.ibb.co/wr6m4x7/tree.png)
 
 - Kemudian buatlah rute sesuai dengan pembagian IP yang kalian lakukan. (Lebih detail https://intip.in/SubnetIT21Modul5 )
+  
 Routing VLSM
 
 ![Tree](https://i.ibb.co/RDM0FCn/image.png)
+
 
 Pembagian IP
 
