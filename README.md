@@ -367,6 +367,7 @@ iptables -t nat -A POSTROUTING -o eth0 -j SNAT --to-source "$IPETH0" -s 10.74.0.
 ![Soal1Ritcher](https://i.ibb.co/6FYQ5Qb/no1-richter.png)
 
 **Ritcher**
+
 ![Soal1Client](https://i.ibb.co/L8DBPQT/no1-client.png)
 
 Konfigurasi iptables berhasil, memungkinkan akses keluar pada topologi dengan ping google.com
@@ -479,7 +480,7 @@ iptables -A INPUT -j REJECT
 - Gagal
 **Stark**
 
-`date --set"2023-12-20 17:00:00`
+`date --set="2023-12-20 17:00:00"`
 
 **GrobeForest**
 
